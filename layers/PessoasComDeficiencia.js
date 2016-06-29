@@ -1,0 +1,10 @@
+var geojson_PessoasComDeficiencia = {
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Lat": -23.184593, "Long": -45.887607, "Nome": "APPD – Associação de Pessoas Portadoras de Deficiência Física", "Atividades": null, "Areas": null, "Area Princ": "Pessoas com Deficiencia", "Custo": null, "Endereco": "Praça Afonso Pena, 105 – Edifício Cinelândia, 7º andar, sala 78 \/ Centro", "Horario": null, "Telefone": null, "Email": null, "Site": null, "Facebook": null }, "geometry": { "type": "Point", "coordinates": [ -45.887607, -23.184593 ] } },
+{ "type": "Feature", "properties": { "Lat": -23.239905, "Long": -45.883425, "Nome": "Centro de Prevenção e Reabilitação de Deficiente da Visão (Próvisão)", "Atividades": null, "Areas": "Habilitação e reabilitação", "Area Princ": "Pessoas com Deficiencia", "Custo": null, "Endereco": "Avenida Andrômeda, 3061, Bosque dos Eucaliptos", "Horario": null, "Telefone": "(12) 3919-3200 \/ (12) 3919-3222", "Email": null, "Site": null, "Facebook": null }, "geometry": { "type": "Point", "coordinates": [ -45.883425, -23.239905 ] } },
+{ "type": "Feature", "properties": { "Lat": -23.223788, "Long": -45.883382, "Nome": "SORRI SÃO JOSÉ DOS CAMPOS", "Atividades": "O serviço tem a finalidade de trabalhar e desenvolver programas assistenciais e serviços para a pessoa com deficiência e suas famílias em situação de vulnerabilidade social, visando à autonomia e independência e a futura promoção da inserção ao Mundo do", "Areas": "Assistência Social, PCD (Pessoa com deficiência)", "Area Princ": "Pessoas com Deficiencia", "Custo": "Não há custo para atendimento.", "Endereco": "Rua Ipanema nº101 - Jardim Satélite", "Horario": "8h00 ás 17h00\/ segunda-feira à sexta-feira", "Telefone": "1239319109\/39311195\/39344942", "Email": "psicologia@sorri.org.br\/servicosocial@sorri.org.br\/sorrisjcampos@sorri.org.br", "Site": "www.sorri.org.br", "Facebook": null }, "geometry": { "type": "Point", "coordinates": [ -45.883382, -23.223788 ] } }
+]
+}
